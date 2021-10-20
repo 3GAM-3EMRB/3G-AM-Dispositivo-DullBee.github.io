@@ -2,9 +2,7 @@
 
 ## 3GAM - 3EMRB
 
-### INTERANTES DO GRUPO
-
-#### Artur Maciel Rodrigues
+### Artur Maciel Rodrigues
 
 ![image]()
 
@@ -12,7 +10,7 @@ Olá! Meu nome é Artur Maciel Rodrigues, mais conhecido como “Zeca”. Eu sem
 
 **Função:** Chefe de organização de código.
 
-#### Gabriela Marto Barbosa
+### Gabriela Marto Barbosa
 
 ![image]()
 
@@ -20,7 +18,7 @@ Oi! Meu nome é Gabriela Marto Barbosa, tenho 17 anos e estudo no Colégio Módu
 
 **Função:** Organizadora das funções gerais do *GitHub*.
 
-#### Gabriela Santos Godoy
+### Gabriela Santos Godoy
 
 ![image]()
 
@@ -28,7 +26,7 @@ Olá! Meu nome é Gabriela Santos Godoy, tenho 17 anos e estou no Colégio Módu
 
 **Função:** *Designer* de programação visual de código.
 
-#### Maria Julia Lenti de Espindola Munhoz
+### Maria Julia Lenti de Espindola Munhoz
 
 ![image]()
 
