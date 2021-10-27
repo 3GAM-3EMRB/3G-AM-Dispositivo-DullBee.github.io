@@ -12,7 +12,7 @@ Olá! Meu nome é Artur, mais conhecido como “Zeca”. Eu sempre tive um grand
 
 ### Gabriela Marto Barbosa
 
-![image](Gabriela Marto Barbosa.jpg)
+![MEDIA/imgs](Gabriela Marto Barbosa.jpg)
 
 Oi! Meu nome é Gabriela Marto, tenho 17 anos e estudo no Colégio Módulo há dez anos. Quero estudar Psicologia e, posterirormente, cursar Medicina para me especializar em Psiquiatria. Gosto de desenhar, jogar videogame, escrever, fazer construções virtuais, maquiagem, assistir desenhos animados e ler, basicamente artes em geral.
 
