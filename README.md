@@ -12,7 +12,7 @@
 
 ### Gabriela Marto Barbosa
 
- <img class="d-block mx-auto mb-4" src="MEDIA/imgs/GMB.jpg" alt="Gabriela Marto Barbosa" width="200px" height="auto">
+ <img class="d-block mx-auto mb-4" src="MEDIA/imgs/GMB.jpg" alt="Gabriela Marto Barbosa" width="500px" height="auto">
 
 <td><p align=justify> Oi! Meu nome é Gabriela Marto, tenho 17 anos e estudo no Colégio Módulo há dez anos. Quero estudar Psicologia e, posterirormente, cursar Medicina para me especializar em Psiquiatria. Gosto de desenhar, jogar videogame, escrever, fazer construções virtuais, maquiagem, assistir desenhos animados e ler, basicamente artes em geral.
 
