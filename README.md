@@ -1,6 +1,6 @@
 # AC Site_base_grupo <td><p align=center>
 
-<h2> 3G AM - 3EMRB </h2>
+<h2> <td><p align=center> 3G AM - 3EMRB </h2>
 
 ### Artur Maciel Rodrigues
 
