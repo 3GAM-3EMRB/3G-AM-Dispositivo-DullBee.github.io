@@ -1,8 +1,8 @@
 # AC Site_base_grupo <td><p align=center>
 
-<td><p align=center> ## 3G AM - 3EMRB
+## 3G AM - 3EMRB
 
-<td><p align=center> ### Artur Maciel Rodrigues
+### Artur Maciel Rodrigues
 
 ![image]()
 
@@ -10,7 +10,7 @@
 
 **Função:** organizador de códigos.
 
-<td><p align=center> ### Gabriela Marto Barbosa
+### Gabriela Marto Barbosa
 
 <td><p align=center> <img class="d-block mx-auto mb-4" src="MEDIA/imgs/GMB.jpg" alt="Gabriela Marto Barbosa" width="500px" height="auto">
 
@@ -18,7 +18,7 @@
 
 **Função:** desenhista 3D e construtora do *Read Me*.
 
-<td><p align=center> ### Gabriela Santos Godoy
+### Gabriela Santos Godoy
 
 ![image]()
 
@@ -26,7 +26,7 @@
 
 **Função:** *CEO*.
 
-<td><p align=center> ### Giovanna Scheiner Bittencourt Vieira
+### Giovanna Scheiner Bittencourt Vieira
 
 ![image]()
 
@@ -34,7 +34,7 @@
 
 **Função:** *designer*.
 
-<td><p align=center> ### Maria Julia Lenti de Espindola Munhoz
+### Maria Julia Lenti de Espindola Munhoz
 
 ![image]()
 
