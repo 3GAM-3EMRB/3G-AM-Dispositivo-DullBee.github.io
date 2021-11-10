@@ -8,7 +8,7 @@
 
 <td><p align=justify> Olá! Meu nome é Artur, mais conhecido como “Zeca”. Eu sempre tive um grande interesse por cozinhar e ler livros, e, no momento, estou gostando muito de aprender sobre códigos, porque está vindo como algo bom para, em geral, “requintar” minhas habilidades, além de, claro, ficar lindíssimo no currículo!
 
-**Função:** pesquisador.
+**Função:** pesquisador e criador do IBM Watson.
 
 <h3> <td><p align=center> Gabriela Marto Barbosa </h3>
 
