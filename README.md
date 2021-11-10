@@ -22,7 +22,7 @@
 
 <td><p align=center> <img class="d-block mx-auto mb-4" src="MEDIA/imgs/GSG.jpeg" alt="Gabriela Santos Godoy" width="500px" height="auto">
 
-<td><p align=justify> Olá! Meu nome é Gabriela Godoy, tenho 17 anos e estou no Colégio Módulo há seis anos. Eu sempre gostei de ter contato com as pessoas – conversar –, fazendo com que eu, independentemente do ambiente, me considere bastante extrovertida; talvez por esse motivo e, claro, outros, que eu queira cursar Medicina. Nadei profissionalmente até o ano passado, esporte o qual comecei aos seis anos de idade, assim, também, por essas e outras, gosto muito de estar ao ar livre!!
+<td><p align=justify> Olá! Meu nome é Gabriela Godoy, tenho 17 anos e estou no Colégio Módulo há seis anos. Eu sempre gostei de ter contato com as pessoas – conversar –, fazendo com que eu, independentemente do ambiente, me considere bastante extrovertida; talvez por esse motivo e, claro, outros, que eu queira cursar Medicina. Nadei profissionalmente até o ano passado, esporte o qual comecei aos seis anos de idade, assim, também, por essas e outras, gosto muito de estar ao ar livre.
 
 **Função:** *CEO*.
 
